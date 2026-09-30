@@ -31,7 +31,7 @@ For the voice to work you need **all** of these:
 
 ## Download
 
-The ready voice pack is published on the mod page at Nexus Mods:
+The ready-to-play zip is published only on GitHub Releases:
 
 👉 [github.com/crc137/Chill-With-You-Voice-Mod/releases](https://github.com/crc137/Chill-With-You-Voice-Mod/releases)
 
