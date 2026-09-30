@@ -1,0 +1,41 @@
+# Release archives: binaries are distributed via Nexus/GitHub Releases, never committed
+release/*.zip
+nexusmods/*.zip
+
+# Original game assets and generated audio (large, derived from the game, not ours)
+backups/
+voices/wav/
+voices/ru/
+voices/en/
+voices/samples/
+voices/*.json
+
+# Build / generated
+bin/
+obj/
+refs/
+
+# Local TTS runtime
+.ttsenv/
+.uvcache/
+.venv/
+tools/uv
+tools/uv.tgz
+tools/uv-*/
+
+# Logs
+*.log
+logs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+!.env.example
+cookies.txt
+api/
