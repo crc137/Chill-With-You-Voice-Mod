@@ -19,9 +19,10 @@
 <div align="center">
   <p>Заменяет <b>японскую озвучку</b> героини на озвучку на другом языке. Каждый язык — отдельный архив в Releases.</p>
  
-| Язык | Реплик | Источник текста |
-| :------- | :---: | :---------- |
-| 🇷🇺 Русский | 1319 | Официальная русская локализация |
+| Язык | Реплик | Источник текста | Скачать |
+| :--- | :----: | :-------------- | :------ |
+| 🇷🇺 Русский | 1319 | Официальная русская локализация | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_ru/ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip) |
+| 🇨🇳 Китайский | 1324 | Официальная китайская локализация (упрощённый) | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_zh/ChillWithYou-ChineseVoice-v26.1.1-Linux-Windows.zip) |
 
 </div>
 
