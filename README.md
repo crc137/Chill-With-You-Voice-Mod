@@ -17,8 +17,12 @@
 <br />
 
 <div align="center">
-  <p>Replaces the <b>Japanese voice</b> of the heroine with a voice in another language. Each language is a separate archive in Releases.</p>
-  <p>Available: 🇷🇺 Russian (1319 lines, text from the game's official Russian localization).</p>
+   <p>Replaces the <b>Japanese voice</b> of the heroine with a voice in another language. Each language is a separate archive in Releases.</p>
+ 
+| Language | Lines | Text source |
+| :------- | :---: | :---------- |
+| 🇷🇺 Russian | 1319 | Official Russian localization |
+
 </div>
 
 ## Requirements
