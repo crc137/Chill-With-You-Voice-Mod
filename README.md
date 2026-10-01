@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/coonlink">
-    <img width="90px" src="logo.png" alt="Logo" />
+    <img width="90px" src="logo.png?1" alt="Logo" />
   </a>
   <h1>Chill with You : Lo-Fi Story — Voice Mod</h1>
 
