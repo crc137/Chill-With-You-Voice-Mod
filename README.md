@@ -19,9 +19,10 @@
 <div align="center">
    <p>Replaces the <b>Japanese voice</b> of the heroine with a voice in another language. Each language is a separate archive in Releases.</p>
  
-| Language | Lines | Text source |
-| :------- | :---: | :---------- |
-| 🇷🇺 Russian | 1319 | Official Russian localization |
+| Language | Lines | Text source | Download |
+| :------- | :---: | :---------- | :------- |
+| 🇷🇺 Russian | 1319 | Official Russian localization | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_ru/ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip) |
+| 🇨🇳 Chinese | 1324 | Official Simplified Chinese localization | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_zh/ChillWithYou-ChineseVoice-v26.1.1-Linux-Windows.zip) |
 
 </div>
 
