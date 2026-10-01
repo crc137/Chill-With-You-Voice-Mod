@@ -23,6 +23,7 @@
 | :--- | :----: | :-------------- | :------ |
 | 🇷🇺 Русский | 1319 | Официальная русская локализация | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_ru/ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip) |
 | 🇺🇦 Украинский | — | Нужен переводчик: носитель украинского языка | — |
+| 🇬🇧 Английский | 1324 | Официальная английская локализация | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_en/ChillWithYou-EnglishVoice-v26.1.1-Linux-Windows.zip) |
 | 🇨🇳 Китайский | 1324 | Официальная китайская локализация (упрощённый) | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_zh/ChillWithYou-ChineseVoice-v26.1.1-Linux-Windows.zip) |
 
 **Украинскому нужен человек.** В игре нет украинского текста, поэтому озвучку нельзя
