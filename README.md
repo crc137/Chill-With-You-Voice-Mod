@@ -17,7 +17,8 @@
 <br />
 
 <div align="center">
-  <p>Replaces the <b>Japanese voice</b> of the heroine with a Russian one: 1319 lines, text taken from the game's own official Russian localization.</p>
+  <p>Replaces the <b>Japanese voice</b> of the heroine with a voice in another language. Each language is a separate archive in Releases.</p>
+  <p>Available: 🇷🇺 Russian (1319 lines, text from the game's official Russian localization).</p>
 </div>
 
 ## Requirements
@@ -25,18 +26,20 @@
 For the voice to work you need **all** of these:
 
 1. The game **Chill with You : Lo-Fi Story** (any version, Steam), launched once.
-2. The mod files `voice_assets_all_32450596a5b4118c119776add9782a1f.bundle` and `catalog.json` (this mod).
+2. The mod files `voice_assets_all_32450596a5b4118c119776add9782a1f.bundle` and `catalog.json` from the archive for your language.
 3. Nothing else: no BepInEx, no plugins, no internet connection required.
 
 
 ## Download
 
-The ready-to-play zip is published only on GitHub Releases:
+Ready-to-play zips, one per language, are published only on GitHub Releases:
 
 👉 [github.com/crc137/Chill-With-You-Voice-Mod/releases](https://github.com/crc137/Chill-With-You-Voice-Mod/releases)
 
-Pick `ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip`. It holds the two mod files plus
-installers for Windows and Linux — no build involved.
+Pick the archive for your language: `ChillWithYou-<Language>Voice-v<version>-Linux-Windows.zip`
+(e.g. `ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip`). Each holds the two mod files plus
+installers for Windows and Linux — no build involved. Only one language can be installed at a time;
+to switch, run `uninstall.sh` first, then install the other archive.
 
 
 ## How to install (player, no build needed)
@@ -64,7 +67,7 @@ The installer finds the game in **any Steam library** (including non-default and
 
 ## Troubleshooting
 - **Complete silence on every line** → `catalog.json` is most likely missing or not overwritten. The bundle belongs in `.../aa/StandaloneWindows64/`, the catalog in `.../aa/`.
-- **Some lines are still Japanese** → by design: the official localization has no text for roughly 60 lines (movement noises, short reactions such as `~♪`).
+- **Some lines are still Japanese** → by design: the official localization has no text for some lines (movement noises, short reactions such as `~♪`; about 60 lines in the Russian version).
 - **The game crashes on startup** → put the originals back with `uninstall.sh` and verify integrity of game files in Steam.
 
 
