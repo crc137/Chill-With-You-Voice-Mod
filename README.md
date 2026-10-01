@@ -2,7 +2,7 @@
   <a href="https://github.com/coonlink">
     <img width="90px" src="logo.png" alt="Logo" />
   </a>
-  <h1>Chill with You : Lo-Fi Story — Russian Voice Mod</h1>
+  <h1>Chill with You : Lo-Fi Story — Voice Mod</h1>
 
 [![English](https://img.shields.io/badge/lang-English%20🇺🇸-white)](README.md)
 [![Русский](https://img.shields.io/badge/язык-Русский%20🇷🇺-white)](README.ru.md)
