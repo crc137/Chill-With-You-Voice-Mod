@@ -37,8 +37,8 @@
 👉 [github.com/crc137/Chill-With-You-Voice-Mod/releases](https://github.com/crc137/Chill-With-You-Voice-Mod/releases)
 
 Берите архив нужного языка: `ChillWithYou-<Язык>Voice-v<версия>-Linux-Windows.zip`
-(например, `ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip`). В каждом — два файла мода и
-установщики для Windows и Linux, без сборки. Одновременно можно установить только один язык;
+(например, `ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip`). В каждом — папка `Chill With You_Data`
+(внутри оба файла мода) и установщики для Windows и Linux, без сборки. Одновременно можно установить только один язык;
 чтобы сменить, сначала запустите `uninstall.sh`, затем установите другой архив.
 
 
@@ -47,7 +47,7 @@
 
 **Вариант A — установщик в один клик (рекомендую)**
 
-Положите `install.sh` / `install.bat`, `voice_assets_all_32450596a5b4118c119776add9782a1f.bundle` и `catalog.json` в одну папку и запустите установщик для своей ОС:
+Распакуйте архив куда угодно (`install.sh` / `install.bat` должны лежать рядом с папкой `Chill With You_Data`) и запустите установщик для своей ОС:
 
 - **Windows:** двойной клик по `install.bat`
 - **Linux / Steam Deck:** `./install.sh`
@@ -57,7 +57,7 @@
 **Вариант B — вручную**
 
 1. Установите игру через Steam и **один раз** запустите её, чтобы создались папки.
-2. Скопируйте **оба файла** из архива в папку игры и согласитесь на перезапись:
+2. Скопируйте папку `Chill With You_Data` из архива в корневую папку игры и согласитесь на слияние/перезапись. Оба файла окажутся здесь:
    ```
    Chill With You_Data/StreamingAssets/aa/StandaloneWindows64/voice_assets_all_32450596a5b4118c119776add9782a1f.bundle   ← сам мод
    Chill With You_Data/StreamingAssets/aa/catalog.json                                                            ← обязателен

@@ -37,8 +37,8 @@ Ready-to-play zips, one per language, are published only on GitHub Releases:
 👉 [github.com/crc137/Chill-With-You-Voice-Mod/releases](https://github.com/crc137/Chill-With-You-Voice-Mod/releases)
 
 Pick the archive for your language: `ChillWithYou-<Language>Voice-v<version>-Linux-Windows.zip`
-(e.g. `ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip`). Each holds the two mod files plus
-installers for Windows and Linux — no build involved. Only one language can be installed at a time;
+(e.g. `ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip`). Each holds the `Chill With You_Data`
+folder (with both mod files inside) plus installers for Windows and Linux — no build involved. Only one language can be installed at a time;
 to switch, run `uninstall.sh` first, then install the other archive.
 
 
@@ -46,7 +46,7 @@ to switch, run `uninstall.sh` first, then install the other archive.
 
 **Option A — one-click installer (recommended)**
 
-Put `install.sh` / `install.bat`, `voice_assets_all_32450596a5b4118c119776add9782a1f.bundle` and `catalog.json` in one folder and run the installer for your OS:
+Unpack the archive anywhere (keep `install.sh` / `install.bat` next to the `Chill With You_Data` folder) and run the installer for your OS:
 
 - **Windows:** double-click `install.bat`
 - **Linux / Steam Deck:** `./install.sh`
@@ -56,7 +56,7 @@ The installer finds the game in **any Steam library** (including non-default and
 **Option B — manual**
 
 1. Install the game via Steam and launch it **once** so folders are created.
-2. Copy **both files** from the archive into the game folder and agree to overwrite:
+2. Copy the `Chill With You_Data` folder from the archive into the game's root folder and agree to merge/overwrite. This puts **both files** here:
    ```
    Chill With You_Data/StreamingAssets/aa/StandaloneWindows64/voice_assets_all_32450596a5b4118c119776add9782a1f.bundle   ← the mod
    Chill With You_Data/StreamingAssets/aa/catalog.json                                                            ← required
