@@ -35,7 +35,7 @@ The ready-to-play zip is published only on GitHub Releases:
 
 👉 [github.com/crc137/Chill-With-You-Voice-Mod/releases](https://github.com/crc137/Chill-With-You-Voice-Mod/releases)
 
-Pick `ChillWithYou-RussianVoice-v26.1.1.zip`. It holds the two mod files plus
+Pick `ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip`. It holds the two mod files plus
 installers for Windows and Linux — no build involved.
 
 
