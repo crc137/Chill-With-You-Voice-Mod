@@ -22,9 +22,14 @@
 | Language | Lines | Text source | Download |
 | :------- | :---: | :---------- | :------- |
 | 🇷🇺 Russian | 1319 | Official Russian localization | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_ru/ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip) |
-| 🇺🇦 Ukrainian | — | Official Ukrainian localization | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_uk/ChillWithYou-UkrainianVoice-v26.1.1-Linux-Windows.zip) |
+| 🇺🇦 Ukrainian | — | Help wanted: native Ukrainian speaker | — |
 | 🇬🇧 English | — | Official English localization | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_en/ChillWithYou-EnglishVoice-v26.1.1-Linux-Windows.zip) |
 | 🇨🇳 Chinese | 1324 | Official Simplified Chinese localization | [ZIP](https://github.com/crc137/Chill-With-You-Voice-Mod/releases/download/26.1.1_zh/ChillWithYou-ChineseVoice-v26.1.1-Linux-Windows.zip) |
+
+**Ukrainian needs you.** The game ships no Ukrainian text, so the voice cannot be
+generated from an official localization — it needs a native Ukrainian speaker to
+translate all lines as natural, living speech rather than machine output. If that is
+you, please get in touch; the translation work is ready to be handed over.
 
 </div>
 
