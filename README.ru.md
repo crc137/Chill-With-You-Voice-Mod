@@ -35,7 +35,7 @@
 
 👉 [github.com/crc137/Chill-With-You-Voice-Mod/releases](https://github.com/crc137/Chill-With-You-Voice-Mod/releases)
 
-Берите `ChillWithYou-RussianVoice-v26.1.1.zip`. В архиве — два файла мода и
+Берите `ChillWithYou-RussianVoice-v26.1.1-Linux-Windows.zip`. В архиве — два файла мода и
 установщики для Windows и Linux, без сборки.
 
 
